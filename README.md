@@ -10,7 +10,7 @@ and run server.exe
 To open the client application application(if downloaded through zip)
 Extract Server-master
 Open Server-master folder
-open WindowsFormsApplication1 folder
 open bin folder
 open debug folder
-and run WindowsFormsApplication1.exe 
+run Server.exe, and click on start server
+run WindowsFormsApplication1.exe
